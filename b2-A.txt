@@ -1,2 +1,6 @@
 b2b2b2b2
 -----------------
+from here : is modified using github.
+This file appears in b1 branch and not in b2 because it was created while in b2 but not committed. 
+After changing to b1 branch this was committed.
+
