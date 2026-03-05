@@ -1,0 +1,1 @@
+Set-Content -Path "C:\GitPractice\GitDemo1\current_location.txt" -Value 'I am in an empty file /c:/GitPractice/GitDemo1/D.txt.'
